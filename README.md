@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/atsushikita1985/Space%20Game-web-Pipeline/_apis/build/status/kita-atsushi.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/atsushikita1985/Space%20Game-web-Pipeline/_build/latest?definitionId=4&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
