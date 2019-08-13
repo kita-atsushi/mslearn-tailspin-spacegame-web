@@ -1,5 +1,5 @@
 
-[![Build Status](https://dev.azure.com/atsushikita1985/Space%20Game-web-Pipeline/_apis/build/status/kita-atsushi.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/atsushikita1985/Space%20Game-web-Pipeline/_build/latest?definitionId=4&branchName=master)
+[![Build Status](https://dev.azure.com/atsushikita1985/Space%20Game-web-Pipeline/_apis/build/status/kita-atsushi.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/atsushikita1985/Space%20Game-web-Pipeline/_build/latest?definitionId=4&branchName=master) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-478&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-478)
 
 # Contributing
 
